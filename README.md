@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/wellington-j%C3%BAnior-1759b46b/" target="_blank"><img align="center" alt="Junior-Linkedin"  height="48" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
   <a href="https://trailblazer.me/id/jfarias" target="_blank"><img align="center" alt="Junior-Trailhead" height="48" width="62" src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" target="_blank"></a>
-  <a href = "mailto:junior13farias@gmail.com"><img align="center" alt="Junior-Gmail" height="48" width="52" src="https://img.icons8.com/color/100/000000/gmail-new.png" target="_blank"></a>
+  <a href = "mailto:junior13farias@gmail.com" target="_blank"><img align="center" alt="Junior-Gmail" height="48" width="52" src="https://img.icons8.com/color/100/000000/gmail-new.png" target="_blank"></a>
 
 ##
   
