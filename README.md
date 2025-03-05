@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Wellington Júnior
 
-- 😎 My credentials: Salesforce Developer 👨🏻‍💻 | 2x Salesforce Certified 📜 | Salesforce Ranger 🤠 | 7x Superbadges 🏆
+- 😎 My credentials: Salesforce Developer 👨🏻‍💻 | 5x Salesforce Certified 📜 | Salesforce Ranger 🤠 | 9x Superbadges 🏆
 - 🔭 I’m currently working on Salesforce Development
 - 😄 Pronouns: He, His / Ele, Dele
 
